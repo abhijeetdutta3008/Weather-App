@@ -1,4 +1,6 @@
 This is a Resopnsive Weather Application using Reactjs and open weather api.
+![2](https://github.com/user-attachments/assets/c27408bd-bbb4-4299-b2f3-3429c9ee0ee4)
+
 
 To install all the dependencies and run the application follow this process :
 
